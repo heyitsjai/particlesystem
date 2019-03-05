@@ -1,3 +1,3 @@
 # particlesystem
 
-To view, simply open up [mp3.html](https://heyitsjai.github.io/particlesystem/Spheres.html).
+Click the following link to view: [Spheres.html](https://heyitsjai.github.io/particlesystem/Spheres.html).
